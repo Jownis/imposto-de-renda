@@ -1,0 +1,45 @@
+body{
+    background: url(https://homolog.aos.org.br/wp-content/uploads/2024/01/Imposto-de-renda-postagem.jpg);
+    font: normal 18 pt arial;
+    color: rgb(249, 252, 255);
+    background-size: auto;
+    background-attachment: fixed;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+    
+}
+
+section {
+    
+    border-radius: 15px;
+    padding: 15px;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 18px black;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+div{
+    padding: 5px;
+}
+article{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(3, 3, 3, 0.609);
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+button{
+    border-radius: 30px;
+}
