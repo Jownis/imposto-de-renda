@@ -44,4 +44,16 @@ p{
 }
 button{
     border-radius: 30px;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+button:hover{
+    transform: scale(1.5);
+}
+article:hover{
+    transform: scale(1.5);
+}
+footer:hover{
+    transform: scale(1.2);
+
 }
